@@ -1,0 +1,13 @@
+C:\Users\14302\Documents\Visual Studio 2010\Projects\CadernoChamadaCompleto\CadernoChamadaCompleto\bin\CadernoChamadaCompleto.dll
+C:\Users\14302\Documents\Visual Studio 2010\Projects\CadernoChamadaCompleto\CadernoChamadaCompleto\bin\CadernoChamadaCompleto.pdb
+C:\Users\14302\Documents\Visual Studio 2010\Projects\CadernoChamadaCompleto\CadernoChamadaCompleto\bin\itextsharp.dll
+C:\Users\14302\Documents\Visual Studio 2010\Projects\CadernoChamadaCompleto\CadernoChamadaCompleto\obj\Debug\CadernoChamadaCompleto.dll
+C:\Users\14302\Documents\Visual Studio 2010\Projects\CadernoChamadaCompleto\CadernoChamadaCompleto\obj\Debug\CadernoChamadaCompleto.pdb
+C:\Users\14302\Documents\Visual Studio 2010\Projects\CadernoChamadaCompleto\CadernoChamadaCompleto\obj\Debug\CadernoChamadaCompleto.csprojResolveAssemblyReference.cache
+C:\Users\Fabrício\Desktop\CadernoChamadaCompleto\obj\Debug\CadernoChamadaCompleto.csprojResolveAssemblyReference.cache
+C:\Users\Fabrício\Desktop\CadernoChamadaCompleto\obj\Debug\CadernoChamadaCompleto.dll
+C:\Users\Fabrício\Desktop\CadernoChamadaCompleto\obj\Debug\CadernoChamadaCompleto.pdb
+C:\Users\Fabrício\Desktop\CadernoChamadaCompleto\bin\CadernoChamadaCompleto.dll.config
+C:\Users\Fabrício\Desktop\CadernoChamadaCompleto\bin\CadernoChamadaCompleto.dll
+C:\Users\Fabrício\Desktop\CadernoChamadaCompleto\bin\CadernoChamadaCompleto.pdb
+C:\Users\Fabrício\Desktop\CadernoChamadaCompleto\bin\itextsharp.dll

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\sites\CadernoChamada" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/CadernoChamadaCompleto.pdb" publishTime="12/11/2012 08:34:36" />
+    <file relUrl="itextsharp.dll" publishTime="12/10/2012 11:27:34" />
+    <file relUrl="bin/itextsharp.dll" publishTime="12/10/2012 11:27:34" />
+    <file relUrl="bin/CadernoChamadaCompleto.dll" publishTime="12/11/2012 08:34:36" />
+    <file relUrl="Web.config" publishTime="12/11/2012 08:37:21" />
+    <file relUrl="logo.jpg" publishTime="12/10/2012 11:27:34" />
+    <file relUrl="Caderno.aspx" publishTime="12/11/2012 08:33:20" />
+  </publishProfile>
+</publishData>
